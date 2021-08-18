@@ -1,0 +1,9 @@
+skinparam roundCorner 10
+skinparam shadowing false
+skinparam backgroundcolor transparent
+skinparam ClassBackgroundColor #f0ffff
+skinparam ClassBorderColor #000044
+skinparam ObjectBackgroundColor white
+skinparam ObjectBorderColor #000044
+skinparam ArrowColor #191970
+skinparam Linetype ortho
